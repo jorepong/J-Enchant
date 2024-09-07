@@ -1,0 +1,7 @@
+name: J-Enchant
+version: '1.0-SNAPSHOT'
+main: com.github.jorepong.jenchant.J_Enchant
+api-version: '1.19'
+
+commands:
+  test:

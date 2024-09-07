@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="J-Enchant:jar">
+    <output-path>D:/마인크래프트 서버 - 1.19.4 2 - 복사본/plugins</output-path>
+    <root id="archive" name="J-Enchant.jar">
+      <element id="module-output" name="J-Enchant" />
+    </root>
+  </artifact>
+</component>
